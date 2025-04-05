@@ -8,3 +8,4 @@ aiofiles
 dotenv
 bs4
 google.generativeai
+tabulate
