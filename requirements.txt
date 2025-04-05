@@ -7,3 +7,4 @@ scikit-learn
 aiofiles
 dotenv
 bs4
+google.generativeai
