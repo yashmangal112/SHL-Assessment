@@ -1,0 +1,92 @@
+[
+    {
+        "Assessment Name": "Verify - Following Instructions",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/verify-following-instructions/",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Duration": "8 mins",
+        "Test Type": "Ability & Aptitude",
+        "Description": "Measures ability to follow instructions accurately under time pressure."
+    },
+    {
+        "Assessment Name": "Multitasking Ability",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/multitasking-ability/",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Duration": "20 mins",
+        "Test Type": "Ability, Knowledge, Simulation",
+        "Description": "Assesses multitasking performance using real-world simulation tasks."
+    },
+    {
+        "Assessment Name": "Global Skills Assessment",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-assessment/",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Duration": "16 mins",
+        "Test Type": "Competencies, Knowledge",
+        "Description": "Evaluates global competencies and domain-specific knowledge."
+    },
+    {
+        "Assessment Name": "Verify - Technical Checking (Next Gen)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/verify-technical-checking-next-generation/",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Duration": "5 mins",
+        "Test Type": "Ability & Aptitude",
+        "Description": "Tests attention to detail and accuracy in identifying technical errors."
+    },
+    {
+        "Assessment Name": "Executive Scenarios",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/executive-scenarios/",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Duration": "Untimed",
+        "Test Type": "Biodata & Situational Judgement",
+        "Description": "Measures decision-making in executive-level workplace scenarios."
+    },
+    {
+        "Assessment Name": "Automata - SQL (New)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/automata-sql-new/",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Duration": "Up to 30 mins",
+        "Test Type": "Simulation",
+        "Description": "Simulates real-world SQL coding tasks to assess practical database skills."
+    },
+    {
+        "Assessment Name": "Agile Testing (New)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/agile-testing-new/",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Duration": "13 mins",
+        "Test Type": "Knowledge & Skills",
+        "Description": "Tests knowledge of Agile methodologies and principles."
+    },
+    {
+        "Assessment Name": "Microsoft Outlook 2013 (adaptive)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-outlook-2013-adaptive/",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Duration": "25 mins",
+        "Test Type": "Knowledge & Skills",
+        "Description": "Assesses practical use of Microsoft Outlook 2013 in a work setting."
+    },
+    {
+        "Assessment Name": "Time Management (U.S.)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/time-management-u-s/",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "Yes",
+        "Duration": "15 to 35 min.",
+        "Test Type": "Knowledge & Skills",
+        "Description": "Evaluates understanding and application of time management strategies."
+    },
+    {
+        "Assessment Name": "MS Access (New)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/ms-access-new/",
+        "Remote Testing": "Yes",
+        "Adaptive/IRT": "No",
+        "Duration": "7 mins",
+        "Test Type": "Knowledge & Skills",
+        "Description": "Tests knowledge and usage of MS Access database features."
+    }
+]
